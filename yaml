@@ -1,0 +1,47 @@
+
+Frontend hanya menampilkan data  
+**Semua validasi & logika utama berada di server**
+
+---
+
+## ✨ Fitur Utama
+
+### 👤 Untuk Member
+- Input User ID
+- Klaim bonus satu kali
+- Status klaim langsung muncul
+- Bukti klaim untuk CS
+- Tombol cepat hubungi CS
+
+### 🧑‍💼 Untuk Admin / CS
+- Login admin terpisah
+- Dashboard data klaim
+- Riwayat klaim real-time
+- Audit & verifikasi user
+- Sistem siap dikembangkan (role, export data)
+
+---
+
+## 🔐 Keamanan & Stabilitas
+
+- ✅ Satu User ID hanya bisa klaim **1x**
+- ✅ Validasi server-side (tidak bergantung frontend)
+- ✅ Anti refresh reset
+- ✅ Rate limit siap diterapkan
+- ✅ Log aktivitas klaim
+- ✅ Token-based authentication (JWT-ready)
+
+---
+
+## 🎨 Desain & UX
+
+- Tampilan **premium & tenang**
+- Warna aman di HP & desktop
+- Tidak berlebihan animasi
+- Mirip platform finansial / layanan resmi
+- Fokus ke kejelasan informasi
+
+---
+
+## 🗂️ Struktur Project
+
