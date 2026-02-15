@@ -1,21 +1,23 @@
-# 🎁 RINJANI4D — Platform Klaim Bonus Member
+# RINJANI4D — Platform Klaim Bonus Member
 
-Platform resmi RINJANI4D untuk klaim bonus member baru.  
-Dibangun dengan konsep **profesional, aman, dan realistis**, bukan sekadar tampilan promosi.
+Platform frontend resmi RINJANI4D untuk klaim bonus member.
 
----
+## Fitur
+- Klaim bonus satu kali per User ID
+- Aktivitas bonus terbaru
+- Dashboard admin monitoring
+- Desain premium & mobile friendly
+- Siap GitHub & Vercel
 
-## 🎯 Tujuan Platform
+## Teknologi
+- HTML
+- CSS
+- JavaScript (Vanilla)
 
-Platform ini dirancang untuk:
-- Memberikan pengalaman klaim bonus yang **jelas & terpercaya**
-- Mencegah penyalahgunaan (klaim ganda, spam, manipulasi)
-- Mempermudah verifikasi oleh Customer Service
-- Siap digunakan dalam jangka panjang
+## Deployment
+Upload ke GitHub lalu deploy ke Vercel.
 
----
+## Customer Service
+https://rinjanipuncak.com
 
-## 🧠 Konsep Sistem
-
-Platform dibangun dengan **arsitektur modern**:
-
+© RINJANI4D
